@@ -74,7 +74,7 @@ def main():
     input_file_path = sys.argv[1]
     
     # Define your API key. Replace the placeholder with your actual key.
-    api_key = "AIzaSyDK7qwSMgdPlyIpWlZtsbahoyqICniKLqY" 
+    api_key = "Insert your Gemini key here." 
 
     try:
         # Read the content of the input file and prepend the new instruction
@@ -107,3 +107,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
