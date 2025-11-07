@@ -1,0 +1,12 @@
+API keys:
+AIzaSyDK7qwSMgdPlyIpWlZtsbahoyqICniKLqY
+AIzaSyCafsaYsQ773XVmGNt9CoY4myrsUQtrM3k
+
+complete: 
+python 99_complete.py story_info.txt
+
+make story outline:
+python 01_make_story_outline.py story_info.txt
+
+notes:
+sensory details

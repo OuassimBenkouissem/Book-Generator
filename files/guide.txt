@@ -1,0 +1,6 @@
+Fill a copy of story_info with your story's specifications
+Run 01 (command in run.txt)
+Run 02 (reruns on error)
+Run 03 (reruns on error)
+Run blurp_maker
+Run titler
